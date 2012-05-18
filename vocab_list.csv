@@ -1,0 +1,220 @@
+Original ID,Page,Expression,Reading,Honorific Version,Honorific Reading,English,Type,Type 2
+1,235,天気,天気[てんき],,,Weather,Noun,
+2,235,気候,気候[きこう],,,Climate,Noun,
+3,235,天気予報,天気[てんき] 予報[よほう],,,Weather forecast,Noun,
+4,235,天気図,天気[てんき] 図[ず],,,Weather map,Noun,
+5,235,いい天気,いい 天気[てんき],,,Good weather,Expression,
+6,235,悪い天気,悪[わる]い 天気[てんき],,,Bad weather,Expression,
+7,235,晴れる,晴[は]れる,,,To clear up,Verb,ru
+8,235,くもる,くもる,,,To become cloudy,Verb,u
+9,235,雨が降る,雨[あめ]が 降[ふ]る,,,To rain,Verb,u
+10,235,雪が降る,雪[ゆき]が 降[ふ]る,,,To rain,Verb,u
+11,235,気温,気温[きおん],,,(Air) Temperature,Noun,
+12,235,…度,… 度[ど],,,... degrees,Counter,
+13,235,暖かい,暖[あたた]かい,,,Warm,Adjective,i
+14,235,涼しい,涼[すず]しい,,,Cool,Adjective,i
+15,235,むし暑い,むし 暑[あつ]い,,,Hot and humid,Adjective,i
+16,235,風が吹く,風[かぜ]が 吹[ふ]く,,,The wind blows,Verb,u
+17,235,風は弱い,風[かぜ]は 弱[よわ]い,,,Weak wind,Adjective,i
+18,235,台風,台風[たいふう],,,Typhoon,Noun,
+19,235,零下 ...,零下[れいか]...,,,... below zero,Noun,
+20,235,高い,高[たか]い,,,Tall,Adjective,i
+21,235,低い,低[ひく]い,,,Short,Adjective,i
+22,264,季節,季節[きせつ],,,Season,Noun,
+23,264,四季,四季[しき],,,Four seasons,Noun,
+24,264,カレンダー,カレンダー,,,Calendar,Noun,
+25,264,泳ぐ,泳[およ]ぐ,,,To swim,Verb,u
+26,264,スキー,スキー,,,Skiing,Noun,
+27,264,スケート,スケート,,,Skating,Noun,
+28,264,山登り,山登[やまのぼ]り,,,Mountain Climbing,Noun,
+29,264,釣り,釣[つ]り,,,Fishing,Noun,
+30,264,キャンプ,キャンプ,,,Camping,Noun,
+31,264,ハイキング,ハイキング,,,Hiking,Noun,
+32,264,花見,花見[はなみ],,,Cherry blossom viewing,Noun,
+33,275,空,空[そら],,,Sky,Noun,
+34,275,霧,霧[きり],,,Fog,Noun,
+35,275,洪水,洪水[こうずい],,,Flood,Noun,
+36,275,日照り,日照[ひで]り,,,Drought,Noun,
+37,275,夕立,夕立[ゆうだち],,,Evening shower,Noun,
+38,275,大雨,大雨[おおあめ],,,Heavy rain,Noun,
+39,275,雷,雷[かみなり],,,Thunder,Noun,
+40,275,稲妻,稲妻[いなづま],,,Lightning,Noun,
+41,275,吹雪,吹雪[ふぶき],,,Snowstorm,Noun,
+42,275,大雪,大雪[おおゆき],,,Heavy snow,Noun,
+43,276,みぞれ,みぞれ,,,Sleet,Noun,
+44,276,霜,霜[しも],,,Frost,Noun,
+45,276,露,露[ろ],,,Dew,Noun,
+46,276,雨,雨[あめ],,,Rain,Noun,
+47,276,風,風[かぜ],,,Wind,Noun,
+48,276,気圧,気圧[きあつ],,,Air pressure,Noun,
+49,276,雲,雲[くも],,,Cloud,Noun,
+50,276,曇り,曇[くも]り,,,Cloudy,Noun,
+51,276,寒い,寒[さむ]い,,,Cold,Adjective,i
+52,276,太陽,太陽[たいよう],,,Sun,Noun,
+53,276,晴れ,晴[は]れ,,,Clear weather,Noun,
+54,276,吹く,吹[ふ]く,,,"To blow (eg, a wind)",Verb,u
+55,276,降る,降[ふ]る,,,To fall,Verb,u
+56,276,雪,雪[ゆき],,,Snow,Noun,
+57,291,秋,秋[あき],,,Autumn,Noun,
+58,291,夏,夏[なつ],,,Summer,Noun,
+59,291,春,春[はる],,,Spring,Noun,
+60,291,冬,冬[ふゆ],,,Winter,Noun,
+61,291,明るい,明[あか]るい,,,Bright (opp. dark),Adjective,i
+62,291,おだやか,おだやか,,,"Calm, gentle",Adjective,na
+63,291,重い,重[おも]い,,,Heavy,Adjective,i
+64,291,面白い,面白[おもしろ]い,,,"Interesting, funny",Adjective,i
+65,291,暗い,暗[くら]い,,,Dark,Adjective,i
+66,291,スマート,スマート,,,Slender (person),NounAdj,
+67,291,大変,大変[たいへん],,,"Terrible, awful",Adverb,
+68,291,つまらない,つまらない,,,Boring,Adjective,i
+69,291,強い,強[つよ]い,,,Strong,Adjective,i
+70,291,長い,長[なが]い,,,Long,Adjective,i
+71,291,にぎやか,にぎやか,,,Lively,Adjective,na
+72,291,早い,早[はや]い,,,Early,Adjective,i
+73,291,速い,速[はや]い,,,Quickly,Adjective,i
+74,291,不まじめ,不[ふ]まじめ,,,"Not serious, lazy",NounAdj,
+75,291,変,変[へん],,,Strange,NounAdj,
+76,291,まじめ,まじめ,,,Serious (person),NounAdj,
+77,291,短い,短[みじか]い,,,Short,Adjective,i
+78,291,むずかしい,むずかしい,,,Difficult,Adjective,i
+79,291,有名,有名[ゆうめい],,,Famous,Adjective,na
+80,291,弱い,弱[よわ]い,,,Weak,Adjective,i
+81,291,若い,若[わか]い,,,Young,Adjective,i
+82,291,海,海[うみ],,,"Ocean, sea",Noun,
+83,291,北,北[きた],,,North,Noun,
+84,291,傘,傘[かさ],,,Umbrella,Noun,
+85,291,手紙,手紙[てがみ],,,Letter,Noun,
+86,291,西,西[にし],,,West,Noun,
+87,291,東,東[ひがし],,,East,Noun,
+88,291,病気,病気[びょうき],,,Sick,Noun,
+89,291,南,南[みなみ],,,South,Noun,
+90,291,山,山[やま],,,Mountain,Noun,
+91,291,コート,コート,,,Coat,Noun,
+92,291,サーフィン,サーフィン,,,Surfing,Noun,
+93,291,死ぬ,死[し]ぬ,,,To die,Verb,u
+94,291,使う,使[つか]う,,,To use,Verb,u
+95,291,同じ,同[おな]じ,,,Same,Noun,
+96,291,ぐらい,ぐらい,,,"About, approximately",Grammar,
+97,296,余暇,余暇[よか],,,Free time,Noun,
+98,296,趣味,趣味[しゅみ],,,Hobby,Noun,
+99,296,遊ぶ,遊[あそ]ぶ,,,To play,Verb,u
+100,296,楽しむ,楽[たの]しむ,,,To enjoy,Verb,u
+101,296,特技,特技[とくぎ],,,Special talent,Noun,
+102,296,切手集め,切手[きって] 集[あつ]め,,,Stamp collecting,Noun,
+103,296,写真,写真[しゃしん],,,Photograph,Noun,
+104,296,園芸,園芸[えんげい],,,Gardening,Noun,
+105,296,手芸,手芸[しゅげい],,,Handicrafts,Noun,
+106,296,読書,読書[どくしょ],,,Reading books,Noun,
+107,296,絵画,絵画[かいが],,,Painting,Noun,
+108,296,音楽鑑賞,音楽[おんがく] 鑑賞[かんしょう],,,Music appreciation,Noun,
+109,296,歌,歌[うた],,,Song,Noun,
+110,296,楽器,楽器[がっき],,,Musical instrument,Noun,
+111,296,茶道,茶道[さどう],,,Tea ceremony,Noun,
+112,296,コンサート,コンサート,,,Concert,Noun,
+113,296,旅行,旅行[りょこう],,,Travel,Noun,
+114,296,カルチャーセンター,カルチャーセンター,,,Adult education centre,Noun,
+115,296,クラブ,クラブ,,,Club,Noun,
+116,296,レジャー,レジャー,,,Leisure,Noun,
+117,296,映画,映画[えいが],,,Movie,Noun,
+118,296,音楽,音楽[おんがく],,,Music,Noun,
+119,296,スポーツ,スポーツ,,,Sports,Noun,
+120,296,暇,暇[ひま],,,Free (time),Noun,
+121,306,試合,試合[しあい],,,Game (usu. sport),Noun,
+122,306,ジョギング,ジョギング,,,Jogging,Noun,
+123,306,マラソン,マラソン,,,Marathon,Noun,
+124,306,野球,野球[やきゅう],,,Baseball,Noun,
+125,306,バスケットボール,バスケットボール,,,Basketball,Noun,
+126,306,バレーボール,バレーボール,,,Volleyball,Noun,
+127,306,テニス,テニス,,,Tennis,Noun,
+128,306,ゴルフ,ゴルフ,,,Golf,Noun,
+129,306,フットボール,フットボール,,,Football,Noun,
+130,306,サッカー,サッカー,,,Soccer,Noun,
+131,306,水泳,水泳[すいえい],,,Swimming,Verb,suru
+132,306,ダイビング,ダイビング,,,Diving,Verb,suru
+133,306,プール,プール,,,(Swimming) Pool,Noun,
+134,306,ヨット,ヨット,,,Yacht,Noun,
+135,306,キャンピング,キャンピング,,,Camping,Noun,
+136,306,エアロビクス,エアロビクス,,,Aerobics,Noun,
+137,306,サイクリング,サイクリング,,,Cycling,Noun,
+138,307,上手,上手[じょうず],,,Skillful,NounAdj,
+139,307,下手,下手[へた],,,Unskillful,NounAdj,
+140,307,だめ,だめ,,,"No good, not allowed",NounAdj,
+141,307,得意,得意[とくい],,,Good at and fond of something,NounAdj,
+142,307,苦手,苦手[にがて],,,Bad at and dislike something,NounAdj,
+143,307,できる,できる,,,To be able to do,Verb,ru
+144,307,できない,できない,,,Cannot do,Verb,ru
+145,325,家族,家族[かぞく],ご家族,ご 家族[かぞく],Family,Noun,
+146,325,両親,両親[りょうしん],ご両親,ご 両親[りょうしん],Parents,Noun,
+147,325,父,父[ちち],お父さん,お 父[とう]さん,Father,Noun,
+148,325,母,母[はは],お母さん,お 母[かあ]さん,Mother,Noun,
+149,325,子供,子供[こども],お子さん,お 子[こ]さん,"Child, children",Noun,
+150,325,息子,息子[むすこ],息子さん,息子[むすこ]さん,Son,Noun,
+151,325,娘,娘[むすめ],娘さん,娘[むすめ]さん,Daughter,Noun,
+152,325,兄弟,兄弟[きょうだい],ご兄弟,ご 兄弟[きょうだい],Siblings,Noun,
+153,325,兄,兄[あに],お兄さん,お 兄[にい]さん,Older brother,Noun,
+154,325,姉,姉[あね],お姉さん,お 姉[ねえ]さん,Older sister,Noun,
+155,325,弟,弟[おとうと],弟さん,弟[おとうと]さん,Younger brother,Noun,
+156,325,妹,妹[いもうと],妹さん,妹[いもうと]さん,Younger sister,Noun,
+157,325,祖父,祖父[そふ],おじいさん,おじいさん,Grandfather,Noun,
+158,325,祖母,祖母[そぼ],おばあさん,おばあさん,Grandmother,Noun,
+159,325,孫,孫[まご],お孫さん,お 孫[まご]さん,Grandchild,Noun,
+160,325,夫婦,夫婦[ふうふ],御夫婦,御[ご] 夫婦[ふうふ],Husband and wife,Noun,
+161,325,夫,夫[おっと],御主人,御[ご] 主人[しゅじん],Husband,Noun,
+162,325,主人,主人[しゅじん],御主人,御[ご] 主人[しゅじん],Husband,Noun,
+163,325,妻,妻[つま],奥さん,奥[おく]さん,Wife,Noun,
+164,325,家内,家内[かない],奥さん,奥[おく]さん,Wife,Noun,
+165,325,おじ,おじ,おじさん,おじさん,Uncle,Noun,
+166,325,おば,おば,おばさん,おばさん,Aunt,Noun,
+167,325,親戚,親戚[しんせき],御親戚,御[ご] 親戚[しんせき],Relative,Noun,
+168,325,集める,集[あつ]める,,,To collect,Verb,ru
+169,325,生花,生花[せいか],,,Flower arranging,Noun,
+170,325,絵,絵[え],,,Picture,Noun,
+171,325,演奏,演奏[えんそう],,,To play (a musical instrument),Verb,suru
+172,325,かく,かく,,,Drawing,Verb,u
+173,325,切手,切手[きって],,,Stamp,Noun,
+174,325,取る,取[と]る,,,To take (a class),Verb,u
+175,325,撮る,撮[と]る,,,To take (a photo),Verb,u
+176,325,料理,料理[りょうり],,,Cooking,Verb,suru
+177,359,男,男[おとこ],,,Male,Noun,
+178,359,男の子,男の子[おとこのこ],,,Boy,Noun,
+179,359,男の人,男[おとこ]の 人[ひと],,,Man,Noun,
+180,359,女,女[おんな],,,Female,Noun,
+181,359,女の子,女の子[おんなのこ],,,Girl,Noun,
+182,359,女の人,女[おんな]の 人[ひと],,,Woman,Noun,
+183,359,方,方[ほう],,,Person (polite),Noun,
+184,359,子,子[こ],,,Child,Noun,
+185,359,人,人[ひと],,,Person,Noun,
+186,359,みな,みな,,,"All, everyone",Noun,
+187,359,みんな,みんな,,,"All, everyone",Noun,
+188,359,問題,問題[もんだい],,,"Problem, question",Noun,
+189,359,一緒に,一緒[いっしょ]に,,,Together,Adverb,
+190,359,特に,特[とく]に,,,Especially,Adverb,
+191,359,全く,全[まった]く,,,Totally,Adverb,
+192,359,なる,なる,,,"To become, turn into",Verb,u
+193,359,わかる,わかる,,,To understand,Verb,u
+194,359,いつか,いつか,,,Sometime,Grammar,
+195,359,いくつか,いくつか,,,"Some, several",Grammar,
+196,359,いつでも,いつでも,,,Anytime,Grammar,
+197,359,いつも,いつも,,,Always,Grammar,
+198,359,全て,全[すべ]て,,,All,Noun,
+199,359,全部,全部[ぜんぶ],,,All,Noun,
+200,359,だれか,だれか,,,Someone,Grammar,
+201,359,だれでも,だれでも,,,Anyone,Grammar,
+202,359,だれも,だれも,,,Everyone,Grammar,
+203,359,どうか,どうか,,,Somehow,Grammar,
+204,359,どこか,どこか,,,Somewhere,Grammar,
+205,359,どこでも,どこでも,,,Anywhere,Grammar,
+206,359,どこも,どこも,,,Everywhere,Grammar,
+207,359,どちらか,どちらか,,,Either,Grammar,
+208,359,どちらでも,どちらでも,,,Whichever,Grammar,
+209,359,どちらも,どちらも,,,Both/neither,Grammar,
+210,359,どなたか,どなたか,,,Someone (polite),Grammar,
+211,359,どなたでも,どなたでも,,,Anyone (polite),Grammar,
+212,359,どなたも,どなたも,,,Everyone (polite),Grammar,
+213,359,どれか,どれか,,,One of them,Grammar,
+214,359,どれでも,どれでも,,,Any of them,Grammar,
+215,359,どれも,どれも,,,All of them/none of them,Grammar,
+216,359,なぜか,なぜか,,,"Somehow, for some reason",Grammar,
+217,359,何か,何[なに]か,,,Something,Grammar,
+218,359,何も,何[なに]も,,,Everything,Grammar,
+219,359,何でも,何[なに]でも,,,Anything,Grammar,
