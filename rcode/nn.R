@@ -1,15 +1,27 @@
-
-
-thesis.algo.svm <- function(dataset, correct_only = FALSE, svm.kernel="radial", test="validation")
+thesis.algo.neuralnet <- function(dataset, correct_only = FALSE, test = "validation", ret = "accuracy")
 {
   data.count <- nrow(dataset)
   data.training.count <- floor(data.count*0.6)
+  
   
   # was_failed should be included
   data.inputs <- subset(dataset, select=c(-was_failed,-was_due,-user_word_id,-user_id,-word_id,-was_new,-created_at,-updated_at,-user_role,-time_to_answer,-correct,-user_rated_answer))
   if(correct_only)
   {
     data.outputs <- subset(dataset, select=c(correct))
+    print(data.outputs)
+    # need to convert to numeric
+    for(i in 1:nrow(data.outputs))
+    {
+      if(data.outputs[i,"correct"] == "true")
+      {
+        data.outputs[i,"correcta"] <- 1
+      }else{
+        data.outputs[i,"correcta"] <- 0
+      }
+    }
+    data.outputs <- subset(data.outputs, select=c(correcta))
+    print(data.outputs)
   }else{
     data.outputs <- subset(dataset, select=c(user_rated_answer))
   }
@@ -22,7 +34,7 @@ thesis.algo.svm <- function(dataset, correct_only = FALSE, svm.kernel="radial", 
   
   # SVM
   library(e1071)
-  model <- svm(data.training.inputs, data.training.outputs, type='C', kernel=svm.kernel)
+  model <- nnet(data.training.inputs, data.training.outputs, size=5, skip=FALSE, linout=TRUE)
   
   if(test == "validation")
   {
@@ -32,7 +44,7 @@ thesis.algo.svm <- function(dataset, correct_only = FALSE, svm.kernel="radial", 
     data.test_set.inputs <- data.training.inputs
     data.test_set.outputs <- data.training.outputs
   }
-  pred <- predict(model, data.test_set.inputs)
+  pred <- round(predict(model, data.test_set.inputs))
   print(table(pred,t(data.test_set.outputs)))
   
   valid = 0
@@ -73,7 +85,15 @@ thesis.algo.svm <- function(dataset, correct_only = FALSE, svm.kernel="radial", 
     }
   }
   accuracy <- (valid/(valid+invalid))*100
-  return(accuracy)
+  print(accuracy)
+  if(ret == "accuracy")
+  {
+    return(accuracy)
+  }else{
+    return(model)
+  }
+  
+  #return(model)
 }
 
-print(thesis.algo.svm(data, correct_only = TRUE))
+nnmodel <- thesis.algo.neuralnet(data, correct_only=TRUE)
